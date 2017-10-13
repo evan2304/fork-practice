@@ -44,4 +44,4 @@ Turn the entire block of code below into a code snippet with HTML syntax highlig
     <li>Item 1</li>
     <li>Item 2</li>
     <li>Item 3</li>
-</ol> ```
+</ol>```
